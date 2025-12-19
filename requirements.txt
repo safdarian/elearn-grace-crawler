@@ -2,3 +2,4 @@ selenium
 pandas
 tqdm
 jdatetime
+python-Levenshtein
